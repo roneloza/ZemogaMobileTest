@@ -1,14 +1,13 @@
 //
-//  ZemogaMobileTestTests.swift
+//  PostDetailViewTests.swift
 //  ZemogaMobileTestTests
 //
-//  Created by Rone Shender Loza Aliaga on 11/05/22.
+//  Created by Rone Shender Loza Aliaga on 22/05/22.
 //
 
 import XCTest
-@testable import ZemogaMobileTest
 
-class ZemogaMobileTestTests: XCTestCase {
+class PostDetailViewTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
